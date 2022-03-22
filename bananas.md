@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Bananas"
+title: "Bananas"
 permalink: /bananas/
 ---
 # You think you know about bananas
