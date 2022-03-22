@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Bananas
-permalink: /bananas
+permalink: /bananas/
 ---
 # You think you know about bananas
 
